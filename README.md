@@ -27,22 +27,20 @@ Design a simple Java class Employee with the following attributes:
 • id (integer)
 • name (string)
 • salary (double)
-
-
-4. Create a method displayDetails() to print employee details.
+Create a method displayDetails() to print employee details.
 Write a main method to:
 • Create at least 3 Employee objects.
 • Store them in a list.
 • Display their details.
 
 
-5. Create a simple to-do list using JavaScript and the DOM.
+4. Create a simple to-do list using JavaScript and the DOM.
 • Allow users to add new tasks.
 • Display tasks in a list.
 • Provide a button to remove each task.
 
 
-5. DOM Manipulation - Image Slider
+6. DOM Manipulation - Image Slider
 Create an image slider using JavaScript that:
 • Displays one image at a time.
 • Has Next and Previous buttons to navigate through images.
